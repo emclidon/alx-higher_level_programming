@@ -8,3 +8,4 @@ if __name__ == "__main__":
         sum_ += int(argv[i])
         i += 1
     print("{}".format(sum_))
+   
